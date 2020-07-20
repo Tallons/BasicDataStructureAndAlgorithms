@@ -39,7 +39,7 @@ public class ShellSort {
 
          // 3x+1 increment sequence:  1, 4, 13, 40, 121, ... 
         int gap = 1;
-        for (gap = 3*gap+1; gap > 0; gap/=3){   // Referenced from Algorithms by Robert Sedgewick and Kaven Wayne
+        for (gap = 3*gap+1; gap > 0; gap/=3){   // Referenced from Algorithms by Robert Sedgewick and Kevin Wayne
 
             for(int i = gap; i < array.length; i++) {
                 
