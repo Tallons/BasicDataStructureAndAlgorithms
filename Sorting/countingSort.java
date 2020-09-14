@@ -7,7 +7,7 @@ public class countingSort{
     public static void main(String[] args) {
         int[] intArray = { 20, 35, -15, 7, 55, 1, -22};
         countingSort(intArray, -22, 55);
-        System.out.println(Arrays.toString(insertionSort(intArray)));
+        System.out.println(Arrays.toString(intArray));
     }
 
     public static void countingSort(int[] input, int min, int max) {
