@@ -2,7 +2,7 @@ import java.util.Arrays;
 
    // Selection Sort Big O  =  O (n log n)  - logarithmic time complexity 
    // This sort method is Stable
-
+   // NOT In-place Algorithm (requires more memory)
 
 public class Main {
 
