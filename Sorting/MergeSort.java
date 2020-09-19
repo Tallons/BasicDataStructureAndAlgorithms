@@ -4,7 +4,7 @@ import java.util.Arrays;
    // This sort method is Stable
    // NOT In-place Algorithm (requires more memory)
 
-public class Main {
+public class MergeSort {
 
     public static void main(String[] args) {
         int[] intArray = { 875, 125, 20, 35, -15, 7, 55, 27544, 1, 0 ,1,

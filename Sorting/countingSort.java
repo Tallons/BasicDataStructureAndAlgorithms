@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class countingSort{
+public class CountingSort{
 
        // Counting Sort Big O  =  O of n - NOT STABLE & you are making assumptions about the data
        // More efficient with smaller rangers of numbers ( min & max )
