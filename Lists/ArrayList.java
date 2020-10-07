@@ -1,7 +1,10 @@
+import resources.Employee;
+
 public class ArrayList {
 
         // ArrayList - good for random access
         // cons - not good for inserting and/or accessing items unless you know the index
+        // not synchronized, not thread safe
 
     public static void main(String[] args) {
 
