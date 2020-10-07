@@ -1,4 +1,4 @@
-package LinkedListFromScratch;
+package LinkedListFromScratch.SinglyLinkedList;
 import resources.Employee;
 
 public class EmployeeNode {

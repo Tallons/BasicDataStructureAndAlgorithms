@@ -1,4 +1,4 @@
-package LinkedListFromScratch;
+package LinkedListFromScratch.SinglyLinkedList;
 import resources.Employee;
 
          // no fixed capacity - limit is based on memory
